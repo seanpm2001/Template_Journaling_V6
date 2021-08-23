@@ -20,9 +20,9 @@
 *.sh linguist-detectable=true
 *.sh linguist-documentation=false
 # YAML
-*.yml linguist-detectable=true
+*.yml linguist-detectable=false
 *.yml linguist-documentation=false
-*.yaml linguist-detectable=true
+*.yaml linguist-detectable=false
 *.yaml linguist-documentation=false
 # ReStructuredText
 *.rst linguist-detectable=true
@@ -32,7 +32,7 @@
 *.vtt linguist-documentation=false
 # SVG
 # Experimental
-*.svg linguist-detectable=true
+*.svg linguist-detectable=false
 *.svg linguist-documentation=false
 # JSON
 # Experimental
@@ -62,6 +62,6 @@
 # End of linguist script
 # File info
 # File type: .gitattributes file (*.gitattributes)
-# File version: 1 (Sunday, 2021 August 22nd at 9:37 pm)
+# File version: 2 (Sunday, 2021 August 22nd at 9:38 pm)
 # Line count (including blank lines and compiler line): 68
 # End of script
